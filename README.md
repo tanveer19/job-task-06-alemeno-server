@@ -1,5 +1,5 @@
 job-task-06-alemeno-server
 
-Live site link:
+Live site link: https://job-task-06-alemeno.web.app/
 
-vercel server:
+vercel server: https://job-task-06-alemeno-server.vercel.app/
